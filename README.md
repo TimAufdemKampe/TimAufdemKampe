@@ -2,9 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========
 I'm a Vue and React Frontend Developer 
 -------------------------------- 
-Currently i am working at saasmetrix as a Vue Frontend Developer  
 🌍  I'm based in Osnabrück - Germany 
-🚀  I'm currently working on [SaasMetrix](http://saasmetrix.io) 
 🧠  I'm learning VueJS and some Python
 
 <a href="https://www.github.com/TimAufdemKampe" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TimAufdemKampe?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
